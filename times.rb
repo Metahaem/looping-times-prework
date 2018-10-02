@@ -1,5 +1,8 @@
+its = 7
+
 def using_times
-	#your code here
+	its.times do
+	  puts
 end
 
 
